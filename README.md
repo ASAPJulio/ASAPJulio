@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/asapjulioo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asapjulioo" height="30" width="40" /></a>
-<a href="https://fb.com/jules tellier sarafyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jules tellier sarafyan" height="30" width="40" /></a>
+<a href="https://www.facebook.com/jules.tellier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jules tellier sarafyan" height="30" width="40" /></a>
 <a href="https://instagram.com/asap_julioo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asap_julioo" height="30" width="40" /></a>
 <a href="https://discord.gg/ASAP_Julio#7524" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ASAP_Julio#7524" height="30" width="40" /></a>
 </p>
