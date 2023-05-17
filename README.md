@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jules Tellier (ASAPJulio)</h1>
+<h1 align="center">Hi 👋, I'm Jules (ASAPJulio)</h1>
 <h3 align="center">I am a passionate web developer student and have for goal to become a full stack developer (Well, I hope so...)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asapjulio&label=Profile%20views&color=0e75b6&style=flat" alt="asapjulio" /> </p>
