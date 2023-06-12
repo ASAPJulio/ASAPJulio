@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/asapjulioo" target="blank"><img src="https://img.shields.io/twitter/follow/asapjulioo?logo=twitter&style=for-the-badge" alt="asapjulioo" /></a> </p>
 
-- 🌱 I’m currently learning **Frameworks**
+- 🌱 I’m currently learning **Vanilla JavaScript & Angular**
 
 - 📫 How to reach me **juliosarafyan@gmail.com**
 
